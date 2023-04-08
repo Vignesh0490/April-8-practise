@@ -1,2 +1,5 @@
 Topics regarding the github is covered
 on April 6
+
+Topics regarding installation is covered 
+on April 8
